@@ -13,3 +13,5 @@ on codeSandbox : https://n8sfo.csb.app/
 on Firebase : https://car-game-ef2ad.web.app/
 
 on Infinityfree : http://kazi.epizy.com/car/
+
+on Awardspace : http://kazi.atwebpages.com/car/
