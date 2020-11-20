@@ -15,3 +15,5 @@ on Firebase : https://car-game-ef2ad.web.app/
 on Infinityfree : http://kazi.epizy.com/car/
 
 on Awardspace : http://kazi.atwebpages.com/car/
+
+- [typing](https://github.com/mk-knight23/typing12)
