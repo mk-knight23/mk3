@@ -19,4 +19,8 @@ on Infinityfree : http://kazi.epizy.com/car
 
 on Awardspace : http://kazi.atwebpages.com/car
 
+On REPL : https://mk3.mkknight1.repl.co
+
+On Codepen : https://codepen.io/mk-knight23/pen/MWjjOoq
+
 ![Screenshot](car-ss.png)
