@@ -195,6 +195,7 @@ KAZI
         }
         function GamePlay() {
             /// console.log('i am clicked');
+
             let car = document.querySelector('.car');
             let road = GameArea.getBoundingClientRect();
             // console.log(road);
@@ -235,7 +236,7 @@ KAZI
             }
             let car = document.createElement('div');
             car.setAttribute('class', 'car');
-            // car.innerText = "hey i am car";
+            // car.innerText = "hey i am car"; Kazi
             GameArea.appendChild(car);
 
             Player.x = car.offsetLeft;
