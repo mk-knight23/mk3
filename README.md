@@ -9,6 +9,8 @@
 
 # on Netlify : https://nervous-knuth-7741d0.netlify.app
 
+# ON AZURE : https://mkapponazure.z30.web.core.windows.net/
+
 # on Render : https://car-game.onrender.com
 
 # on codeSandbox : https://n8sfo.csb.app
